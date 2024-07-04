@@ -1,0 +1,15 @@
+03/07/2024 23:18:54 - https://httpbin.org/status/400 - online: false
+03/07/2024 23:18:54 - https://alura.com.br - online: true
+03/07/2024 23:18:55 - https://google.com.br - online: true
+03/07/2024 23:18:55 - https://youtube.com.br - online: true
+03/07/2024 23:18:56 - https://casadocodigo.com.br - online: true
+03/07/2024 23:19:01 - https://httpbin.org/status/400 - online: false
+03/07/2024 23:19:01 - https://alura.com.br - online: true
+03/07/2024 23:19:01 - https://google.com.br - online: true
+03/07/2024 23:19:01 - https://youtube.com.br - online: true
+03/07/2024 23:19:02 - https://casadocodigo.com.br - online: true
+03/07/2024 23:19:07 - https://httpbin.org/status/400 - online: false
+03/07/2024 23:19:07 - https://alura.com.br - online: true
+03/07/2024 23:19:07 - https://google.com.br - online: true
+03/07/2024 23:19:08 - https://youtube.com.br - online: true
+03/07/2024 23:19:08 - https://casadocodigo.com.br - online: true

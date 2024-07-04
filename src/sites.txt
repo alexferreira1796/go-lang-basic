@@ -1,0 +1,5 @@
+https://httpbin.org/status/400
+https://alura.com.br
+https://google.com.br
+https://youtube.com.br
+https://casadocodigo.com.br

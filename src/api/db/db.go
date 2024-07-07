@@ -7,7 +7,7 @@ import (
 )
 
 func ConnectionDatabase() *sql.DB {
-	connection := "user=alexferreira dbname=apigo password=1909 host=localhost sslmode=disable"
+	connection := "user=root dbname=apigo password="" host=localhost sslmode=disable"
 	db, err := sql.Open("postgres", connection)
 
 	if err != nil {
